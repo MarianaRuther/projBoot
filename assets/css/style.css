@@ -1,0 +1,58 @@
+body{
+    font-family: 'Viga', sans-serif;
+    background-color: #e7eaf2;
+}
+
+.navbar-header button{
+    background-color: white;
+}
+
+.nav-cores{
+    background-color: #462755;
+    font-size: 20px;
+}
+
+ .navbar-default .navbar-nav > li > a{
+   color: white;
+}
+
+ul.nav a:hover { 
+    color: deeppink !important; 
+}
+
+.img-redimensionar{
+    width: 230px;
+    margin-top: 10px;
+}
+
+.texto-intro{
+    margin-top: 70px;
+}
+
+.cores-li{
+    color: white;
+}
+
+.legenda-missao{
+    font-size: 18px;
+    text-align: justify;
+}
+.legenda-foto{
+    font-size: 18px;
+}
+
+.btn-teste{
+    background-color: #462755;
+}
+
+.btn-teste:hover{
+    background-color: deeppink;
+}
+
+.footer-css{
+    color: white;
+}
+
+.footer-mariana:hover{
+    color: deeppink;
+}
